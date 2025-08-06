@@ -1,4 +1,3 @@
-![Uploading how to GIF.gif…]()
 # 📂 Folder-Sorter
 
 Folder Sorter is a lightweight Python GUI tool that organizes files into subfolders by their extension.  
